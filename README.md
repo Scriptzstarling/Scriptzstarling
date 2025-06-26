@@ -1,9 +1,15 @@
+<!-- GitHub Profile README -->
+
+<!-- Streak Badge -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Scriptzstarling&theme=tokyonight&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+
+<!-- Master Head Banner -->
 [![MasterHead](https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gif)](https://shashwatdev.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
 <h3 align="center">Turning ideas into reality with code | Frontend Developer | Power BI Enthusiast | Problem Solver</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=scriptzstarling&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -46,12 +52,24 @@
 
 ---
 
+### 🔥 GitHub Streak: Staying Consistent, One Commit at a Time
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=scriptzstarling&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  🔁 Coding daily, growing consistently. Let's keep the streak alive!
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=scriptzstarling&theme=tokyonight&hide_border=true&border_radius=12" height="200"/>
 </p>
 
 <p align="center">
