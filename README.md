@@ -81,5 +81,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=scriptzstarling" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app?user=Scriptzstarling&theme=github-dark" alt="GitHub Streak" />
+  </a>
 </p>
+
