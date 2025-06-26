@@ -73,12 +73,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptzstarling&show_icons=true&locale=en&layout=compact&theme=react&border_color=00ff00&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptzstarling&show_icons=true&locale=en&layout=compact&theme=react&border_color=39d453&title_color=39d453&text_color=ffffff&icon_color=39d453&bg_color=000000" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&locale=en&theme=react&border_color=00ff00&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&locale=en&theme=react&border_color=39d453&title_color=39d453&text_color=ffffff&icon_color=39d453&bg_color=000000" alt="GitHub Stats" />
 </p>
+
 
 
 <p align="center">
