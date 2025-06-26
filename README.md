@@ -39,11 +39,11 @@
 ### 📊 My GitHub Stats
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-main-shadcn.vercel.app/api?username=scriptzstarling&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" width="48%" alt="GitHub Stats"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=scriptzstarling&theme=radical&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptzstarling&layout=compact&theme=radical&hide_border=true&border_radius=10" width="50%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-main-shadcn.vercel.app/api/top-langs/?username=scriptzstarling&layout=compact&theme=radical&hide_border=true&border_radius=10" width="50%" alt="Top Languages"/>
 
 </div>
 
