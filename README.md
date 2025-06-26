@@ -45,17 +45,26 @@
 
 ---
 
-### 📈 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptzstarling&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=scriptzstarling&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=scriptzstarling&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptzstarling&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptzstarling&theme=tokyonight" alt="GitHub Summary Card" />
+</p>
 
 ---
+
 
 ### 📬 Let's Connect!
 
