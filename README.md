@@ -48,20 +48,19 @@
 
 ### 📊 GitHub Stats:
 
-### 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptzstarling&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="200"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=scriptzstarling&theme=tokyonight&hide_border=true&border_radius=12" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scriptzstarling&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scriptzstarling&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" onerror="this.onerror=null; this.src='https://streak-stats.demolab.com?user=scriptzstarling&theme=radical';"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptzstarling&theme=tokyonight" />
 </p>
-
 
 ---
 
