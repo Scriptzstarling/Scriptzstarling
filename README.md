@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scriptzstarling&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="200"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=scriptzstarling&theme=tokyonight&hide_border=true&border_radius=12" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=scriptzstarling&theme=tokyonight&hide_border=true&border_radius=12" height="200"/>
 </p>
 
 <p align="center">
@@ -61,13 +61,3 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptzstarling&theme=tokyonight" />
 </p>
-
----
-
-<!-- Optional: Add Contribution Graph -->
-<!-- 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptzstarling&theme=tokyo-night&hide_border=true&area=true" />
-</p>
--->
-
