@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Scriptzstarling/Scriptzstarling/blob/main/SHXx.gif?raw=true" width="100%" alt="SHX Logo Animation" />
+  <img src="https://github.com/Scriptzstarling/Scriptzstarling/blob/main/SHXx__.gif?raw=true" width="100%" alt="SHX Logo Animation" />
 </p>(https://shashwatdev.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
