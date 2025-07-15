@@ -13,7 +13,7 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at: [**shashwatdev.vercel.app**](https://shashwatdev.vercel.app/)
+- 👨‍💻 All of my projects are available at: [**SHXx.Tech**](https://shxx.tech/)
 - 📫 Reach me at: **shashwat11muz@gmail.com**
 - ⚡ Fun fact: **I trust the process... and console.log()**
 
@@ -22,7 +22,7 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/shashwata" target="blank">
+  <a href="https://linkedin.com/in/shashwat8w00" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
