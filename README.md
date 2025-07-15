@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Scriptzstarling/Scriptzstarling/blob/main/SHXx__.gif?raw=true" width="100%" alt="SHX Logo Animation" />
-</p>(Shxx.tech)
+</p>
 
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
 <h3 align="center">Turning ideas into reality with code | Frontend Developer | Power BI Enthusiast | Problem Solver</h3>
